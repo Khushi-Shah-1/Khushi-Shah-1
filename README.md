@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/khushi-shah-961a181a6/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.fpsa.org%2Fwp-content%2Fuploads%2Flinkedin-logo-copy.png&imgrefurl=https%3A%2F%2Fwww.fpsa.org%2Ffpsa-womens-alliance%2Flinkedin-logo-copy%2F&tbnid=x1xIFUs_r1tqLM&vet=12ahUKEwjh7rvUqOzwAhXBUysKHXVzBsEQMygDegUIARDVAQ..i&docid=qop7vgg3QD2YPM&w=612&h=612&q=linkedin%20logo&ved=2ahUKEwjh7rvUqOzwAhXBUysKHXVzBsEQMygDegUIARDVAQ" alt="khushi shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushi-shah-961a181a6/" target="blank"><img align="center" src="https://github.com/Khushi-Shah-1/Khushi-Shah-1/blob/main/in0C53A4.png" alt="khushi shah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
