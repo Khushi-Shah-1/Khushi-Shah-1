@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Khushi Shah
 
 <!--
 **Khushi-Shah-1/Khushi-Shah-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/khushi-shah-961a181a6/">
+  <img align="left" alt="Khushi Shah's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
