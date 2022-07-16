@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Shah</h1>
-<h3 align="center">Machine Learning and Data Science Enthusiast</h3>
+<h3 align="center">Software Development and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-shah-1&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-shah-1" /> </p>
 
