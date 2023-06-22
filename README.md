@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-shah-1&show_icons=true&locale=en&layout=compact" alt="khushi-shah-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-shah-1&show_icons=true&locale=en" alt="khushi-shah-1" /></p>
+
